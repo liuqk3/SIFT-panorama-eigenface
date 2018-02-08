@@ -1,0 +1,14 @@
+1. Run file 'detection_and_recognition_demo.m' to detected and recognition
+   faces in the images.
+
+2. The default data to be detected are labeled with 'smiling'. If you want 
+   to process the 'nonsmiling' data, please find the line 'data_type = smiling'
+   in the file 'detection_and_recognition_demo.m', and modified it to 
+   'data_type = nonsmiling'.
+
+3. After finish runing the file 'detection_and_recognition_demo.m', there
+   will be some reults that are reserved, if you want to visulize these
+   results, please run file 'show_results.m'. Also, the default results to 
+   visulize is the results of 'smiling' data, please modify the line
+   'data_type = smiling' to 'data_type = nonsmiling' to show the resuls
+   of 'nonsmiling' data.
